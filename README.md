@@ -13,7 +13,7 @@ A cross platform stock trading simulator with real-time pricing, news, charts, a
 - Hosted on Google App Engine
 ## iOS Mobile Application
 - **SwiftUI** app for iOS mobile devices written in Swift
-# Features
+# App Features
 - Search stock and discover stock peers
 - See relative news articles
 - View real-time and historical pricing
