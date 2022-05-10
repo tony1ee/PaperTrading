@@ -7,12 +7,18 @@ A cross platform stock trading simulator with real-time pricing, news, charts, a
 - Built with Express (Node.js)
 - Deployed on Google App Engine
 ## Web Application
-- Responsive single-page application (SPA)
+- **Responsive** single-page application (SPA)
 - Built with Angular using TypeScript (JavaScript)
 - Themed using Material Design
 - Hosted on Google App Engine
 ## iOS Mobile Application
-- SwiftUI app for iOS mobile devices written in Swift
+- **SwiftUI** app for iOS mobile devices written in Swift
+# Features
+- Search stock and discover stock peers
+- See relative news articles
+- View real-time and historical pricing
+- Add stock to favorites to keep watching
+- Portfolio management: buy and sell stocks when market is open
 # Demo
 ## Web app demo
 ### Responsive design
