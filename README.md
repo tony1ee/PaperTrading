@@ -44,3 +44,4 @@ A cross platform stock trading simulator with real-time pricing, news, charts, a
 ![](/screenshots/iosapp_dark_mode.gif)
 # Source Code
 Full source code is available upon request. Due to policy restriction, no public code repository is available.
+![](source_code.png)
