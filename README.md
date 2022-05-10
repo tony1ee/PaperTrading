@@ -15,6 +15,8 @@ A cross platform stock trading simulator with real-time pricing, news, charts, a
 - SwiftUI app for iOS mobile devices written in Swift
 # Demo
 ## Web app demo
+### Responsive design
+![](/screenshots/webapp_responsive.gif)
 ### AutoComplete
 ![](/screenshots/webapp_auto_complete.gif)
 ### Stock info
