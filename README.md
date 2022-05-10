@@ -3,7 +3,7 @@ A cross platform stock trading simulator with real-time pricing, news, charts, a
 # Project Overview
 ## Backend Service
 - API implementation (financial data powered by Finnhub) 
-- Static content (html, js) hosting 
+- Static content hosting 
 - Built with Express (Node.js)
 - Deployed on Google App Engine
 ## Web Application
