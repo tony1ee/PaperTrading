@@ -1,5 +1,5 @@
 # PaperTrading
-Web development project: a cross-platform stock trading simulator with real-time pricing, news, charts, and information
+Web + iOS development project: a cross-platform stock trading simulator with real-time pricing, news, charts, and information
 # Project Overview
 ## Backend Service
 - API implementation (financial data powered by [Finnhub](https://finnhub.io/))
