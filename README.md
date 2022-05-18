@@ -2,15 +2,16 @@
 A cross platform stock trading simulator with real-time pricing, news, charts, and information
 # Project Overview
 ## Backend Service
-- API implementation (financial data powered by Finnhub) 
+- API implementation (financial data powered by [Finnhub](https://finnhub.io/) 
 - Static content hosting 
 - Built with Express (Node.js)
-- Deployed on Google App Engine
+- Deployed on Google App Engine(Google Cloud Platform)
 ## Web Application
 - **Responsive** single-page application (SPA)
 - Built with Angular using TypeScript (JavaScript)
-- Themed using Material Design
-- Hosted on Google App Engine
+- Charts and graphs using [HighCharts](https://www.highcharts.com/)
+- Themed using **Material Design**
+- Hosted on Google App Engine(Google Cloud Platform)
 ## iOS Mobile Application
 - **SwiftUI** app for iOS mobile devices written in Swift
 # App Features
