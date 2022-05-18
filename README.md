@@ -2,23 +2,23 @@
 Web development project: a cross-platform stock trading simulator with real-time pricing, news, charts, and information
 # Project Overview
 ## Backend Service
-- API implementation (financial data powered by [Finnhub](https://finnhub.io/) 
+- API implementation (financial data powered by [Finnhub](https://finnhub.io/))
 - Static content hosting 
-- Built with Express (Node.js)
-- Deployed on Google App Engine(Google Cloud Platform)
+- Built with **Express (Node.js)**
+- Deployed on Google App Engine(**Google Cloud Platform**)
 ## Web Application
-- **Responsive** single-page application (SPA)
-- Built with Angular using TypeScript (JavaScript)
+- **Responsive** single-page application (**SPA**)
+- Built with **Angular** using **TypeScript (JavaScript)**
 - Charts and graphs using [HighCharts](https://www.highcharts.com/)
 - Themed using **Material Design**
-- Hosted on Google App Engine(Google Cloud Platform)
+- Hosted on Google App Engine(**Google Cloud Platform**)
 ## iOS Mobile Application
-- **SwiftUI** app for iOS mobile devices written in Swift
+- **SwiftUI** app for iOS mobile devices written in **Swift**
 # App Features
 - Search stock and discover stock peers
-- See relative news articles
+- Browse related news articles
 - View real-time and historical pricing
-- Add stock to favorites to keep watching
+- Add stock to watchlist to keep watching
 - Portfolio management: buy and sell stocks when market is open
 # Demo
 ## Web app demo
@@ -34,6 +34,13 @@ Web development project: a cross-platform stock trading simulator with real-time
 ![](/screenshots/webapp_charts.gif)
 ### Stock insights
 ![](/screenshots/webapp_insights.gif)
+### Watchlist
+![](/screenshots/webapp_watchlist.gif)
+### Stock Trading
+![](/screenshots/webapp_trading.gif)
+### Portfolio
+![](/screenshots/webapp_portfolio.gif)
+
 ## iOS app demo
 ### Search and view stocks
 ![](/screenshots/iosapp_search_stock.gif)
